@@ -37,3 +37,5 @@ Ziel Temperatur verbessern: Zieltemperatur (z.B. 20 Grad Celsius) sollte ggf. er
 Wetterprognose berücksichtigen: Wenn steigende oder fallende Temperaturen erwartet werden, sollte z.B. morgens gelüftet werden um das Gebäude abzukühlen.
 
 Messwerte Innentemperatur automatisch laden. Vielleicht über Arduino oder Raspberry Pi mit entsprechenden Sensoren.
+
+Warnung Taupunktunterschreitung. „Achtung: Schwitzwasser entsteht an Gegenständen die kälter als 12 Grad sind.“
